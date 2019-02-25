@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAUA,eAAe;EACX,OAAO,EAAE,IAAI;;AAGjB,gBAAgB;EACZ,OAAO,EAAE,KAAK;;AAUlB,WAAW;EACP,gBAAgB,EAAE,IAAI",
+"sources": ["../sass/components/_tabs.scss"],
+"names": [],
+"file": "styles.css"
+}
